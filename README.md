@@ -1,5 +1,7 @@
 # Winter Internship Data Science Project
 
+Majority of work done with Anaconda Package and Environment manager along with Geopandas library.
+Geopandas can be imported by running "%pip install geopandas" in a cell.
 
 California Fire Perimeter data from https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-1950/explore?location=37.944203%2C-116.840005%2C5.98
 
