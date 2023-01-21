@@ -3,3 +3,7 @@
 *.lyr
 *.geojson
 *.pickle
+region_1.csv
+region_2.csv
+region_3.csv
+region_4.csv
