@@ -13,4 +13,10 @@ In zip "Area_burned_in_each_burn_severity_class_and_emissions_per_fire_1984_2020
 metadata on noaa stations https://www.ncei.noaa.gov/access/homr/reports/mshr  
 Downloaded from "emshr_lite.txt"
 
-noaa_region_data_add.ipynb known to not run on windows, will run on linux
+## Order to run 
+pickle.ipynb  
+Fuel.ipynb  
+Time_Since_Last_Fire.ipynb  
+TSLFmerge.ipynb  
+noaa_region_data_add.ipynb  
+
