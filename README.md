@@ -14,7 +14,7 @@ metadata on noaa stations https://www.ncei.noaa.gov/access/homr/reports/mshr
 Downloaded from "emshr_lite.txt"
 
 ## Order to run 
-pickle.ipynb  
+pickle.ipynb  <--- Will take upwards of 5 minutes to run and creates Fuel.pickle file locally
 Fuel.ipynb  
 Time_Since_Last_Fire.ipynb  
 TSLFmerge.ipynb  
